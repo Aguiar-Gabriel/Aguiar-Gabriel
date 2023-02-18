@@ -10,8 +10,15 @@ Eu fui considerado [Melhor Aluno (Módulo 1)] do Bootcamp de Analista de Dados d
 
 Fiz vários outros cursos relacionados a dados. Você pode conferir alguns visitando [meu LinkedIn clicando aqui](https://www.linkedin.com/in/gabriel-aguiar-leao/).
 
+[![Minhas habilidades](https://skillicons.dev/icons?i=py,mysql)](https://skillicons.dev/)
+
 ## Me contate, adoraria ouvir mais de você
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-aguiar-leao/)
 &nbsp;
 📧 gabrieltyt.ga@gmail.com
 📲 [WhatsApp](//wa.me/5561995595075)
+
+
+
+
+

@@ -27,3 +27,9 @@ Fiz vários outros cursos relacionados a dados. Você pode conferir alguns visit
 
 
 E fique a vontade para dar uma olhada nos meus projetos aqui em baixo:
+------------
+
+|    Nome do Projeto  | Notebook ou Link    | Linguagem    | Fonte de Dados  | Observação  | 
+| ------------        | ------------        | ------------ | ------------    |------------ |
+| **Análise de Dados do Carnaval de BH 2018 📊🤔** | [Carnaval Pudding 🎉🥳🎭](https://https://github.com/hainaha/carnaval-pudding-frontend) | Python e React| data.csv | **Um projeto completo de Desenvolvimento web, Análise de dados e Machine Learning**, da definição do problema, passando pela Análise Exploratória dos Dados (EDA - *Exploratory Data Analysis*), tratamento, geração do modelo (Regressão utilizando ***Regressão Linear, Decision Tree, Random Forest***) até o dashboard feito no githubpages|
+

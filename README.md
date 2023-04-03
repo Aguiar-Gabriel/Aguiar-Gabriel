@@ -12,7 +12,7 @@ Trabalho principalmente com **Python e SQL** para desenvolver **análises explor
 
 Eu fui considerado Melhor Aluno da minha turma do Bootcamp de Analista de Dados da Practicum by Yandex. No curso eu aprendi muito sobre as principais bibliotecas Python utilizadas na análise de dados **(pandas, numpy, matplotlib, plotly, scipy, scikit learn, entre outras)**, suas aplicações para **resolver problemas de negócios como machine learning, incluindo segmentação de clientes, análise de KPIs, testes estatísticos e economia unitária. E, claro, passei incontáveis horas limpando, transformando e pré-processando conjuntos de dados.**
 
-Fiz vários outros cursos relacionados a dados. Você pode conferir alguns visitando **[meu LinkedIn clicando aqui](https://www.linkedin.com/in/gabriel-aguiar-leao/).
+Fiz vários outros cursos relacionados a dados. Você pode conferir alguns visitando [meu LinkedIn clicando aqui](https://www.linkedin.com/in/gabriel-aguiar-leao/).
 
 [![Minhas habilidades](https://skillicons.dev/icons?i=py,mysql)](https://skillicons.dev/)
 

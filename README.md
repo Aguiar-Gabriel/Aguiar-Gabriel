@@ -2,7 +2,7 @@
   <h1> Olá, pessoa!👋 Boas-vindas! </h1>
 </p>
 
-**Eu me chamo Gabriel Aguiar e sou analista de dados. É um prazer te ter por aqui!** 😊 Desde criança, fui apaixonado por tecnologia e sempre soube que queria seguir nessa área. Após reformatar alguns computadores e me mudar para Brasília, decidi cursar **Engenharia de Software** na Universidade de Brasília e simultaneamente, **Big Data e Inteligência Analítica**.
+**Eu me chamo Gabriel Aguiar e sou um profissional de dados. É um prazer te ter por aqui!** 😊 Desde criança, fui apaixonado por tecnologia e sempre soube que queria seguir nessa área. Após reformatar alguns computadores e me mudar para Brasília, decidi cursar **Engenharia de Software** na Universidade de Brasília e simultaneamente, **Big Data e Inteligência Analítica**.
 
 Embora tenha adquirido bastante conhecimento teórico, percebi que ainda estava longe do mercado de trabalho e decidi fazer uma mudança em setembro de 2022. Diminuí a carga horária da faculdade de Engenharia de Software e comecei a investir em cursos de **Análise de Dados**. Logo de cara, me apaixonei por essa área por envolver **programação, estatística e pensamento analítico**.
 

@@ -20,7 +20,6 @@ Fiz vários outros cursos relacionados a dados. Você pode conferir alguns visit
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-aguiar-leao/)
 &nbsp;
 📧 gabrieltyt.ga@gmail.com
-📲 [WhatsApp](//wa.me/5561995595075)
 
 
 

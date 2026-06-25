@@ -35,7 +35,7 @@ Data       pandas · NumPy · SQL (DB2 · Hive · PostgreSQL)
 | [ncaa-march-madness-2026](https://github.com/Aguiar-Gabriel/ncaa-march-madness-2026) | Meta-stacking ensemble (LGB+XGB+CatBoost) · ELO ratings · Four Factors · external odds blend |
 | [predicting-irrigation-need](https://github.com/Aguiar-Gabriel/predicting-irrigation-need) | Kaggle Playground S6E4 — stacked classifier · 0.970 CV balanced accuracy |
 | [kaggle_kedro](https://github.com/Aguiar-Gabriel/kaggle_kedro) | Production ML pipeline with Kedro: layered data store, temporal CV, ablation study support |
-| [mlops-skills](https://github.com/Aguiar-Gabriel/mlops-skills) | MLOps curriculum: Kubeflow, SageMaker, pipeline orchestration, deployment patterns |
+| [two-towers-rs](https://github.com/Aguiar-Gabriel/two-towers-rs) | Two-Tower recommender system with Kedro + PySpark: retrieval + ranking pipeline |
 | [home-credit-default-risk](https://github.com/Aguiar-Gabriel/home-credit-default-risk) | Credit default prediction + fairness/LGPD compliance analysis |
 
 ---

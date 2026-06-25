@@ -36,7 +36,6 @@ Data       pandas · NumPy · SQL (DB2 · Hive · PostgreSQL)
 | [predicting-irrigation-need](https://github.com/Aguiar-Gabriel/predicting-irrigation-need) | Kaggle Playground S6E4 — stacked classifier · 0.970 CV balanced accuracy |
 | [kaggle_kedro](https://github.com/Aguiar-Gabriel/kaggle_kedro) | Production ML pipeline with Kedro: layered data store, temporal CV, ablation study support |
 | [peloptmize](https://github.com/Aguiar-Gabriel/peloptmize) | Production Kedro ML pipeline for Vale pelletizing — predictive models + Optuna nonlinear optimization |
-| [inteliza-academy](https://github.com/Aguiar-Gabriel/inteliza-academy) | Full-stack MLOps LMS: Django REST + React + JWT auth + video course delivery |
 | [two-towers-rs](https://github.com/Aguiar-Gabriel/two-towers-rs) | Two-Tower recommender system with Kedro + PySpark: retrieval + ranking pipeline |
 | [home-credit-default-risk](https://github.com/Aguiar-Gabriel/home-credit-default-risk) | Credit default prediction + fairness/LGPD compliance analysis |
 
